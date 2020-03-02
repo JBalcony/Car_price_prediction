@@ -1,3 +1,3 @@
-# Car_price_prediction
+# Car price prediction
 ---
 ML car price models
